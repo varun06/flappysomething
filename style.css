@@ -1,0 +1,14 @@
+
+		body{
+			margin:0;
+			background:black;
+		}
+		#canvasHolder{
+			width:550px;
+			position:relative;
+			margin:50px auto;
+		}
+		#theCanvas{
+			background-color:#6666FF;
+		}
+	
